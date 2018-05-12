@@ -26,3 +26,7 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.wrapper {
+  background-image: url("https://i.pinimg.com/originals/b6/77/bc/b677bcd4eaf5fde397285b63b23e52ec.jpg");
+}
